@@ -1,0 +1,11 @@
+C:\Users\baxte\source\repos\MathApplication\MathApplication\bin\Debug\netcoreapp2.2\MathApplication.deps.json
+C:\Users\baxte\source\repos\MathApplication\MathApplication\bin\Debug\netcoreapp2.2\MathApplication.runtimeconfig.json
+C:\Users\baxte\source\repos\MathApplication\MathApplication\bin\Debug\netcoreapp2.2\MathApplication.runtimeconfig.dev.json
+C:\Users\baxte\source\repos\MathApplication\MathApplication\bin\Debug\netcoreapp2.2\MathApplication.dll
+C:\Users\baxte\source\repos\MathApplication\MathApplication\bin\Debug\netcoreapp2.2\MathApplication.pdb
+C:\Users\baxte\source\repos\MathApplication\MathApplication\obj\Debug\netcoreapp2.2\MathApplication.csprojAssemblyReference.cache
+C:\Users\baxte\source\repos\MathApplication\MathApplication\obj\Debug\netcoreapp2.2\MathApplication.csproj.CoreCompileInputs.cache
+C:\Users\baxte\source\repos\MathApplication\MathApplication\obj\Debug\netcoreapp2.2\MathApplication.AssemblyInfoInputs.cache
+C:\Users\baxte\source\repos\MathApplication\MathApplication\obj\Debug\netcoreapp2.2\MathApplication.AssemblyInfo.cs
+C:\Users\baxte\source\repos\MathApplication\MathApplication\obj\Debug\netcoreapp2.2\MathApplication.dll
+C:\Users\baxte\source\repos\MathApplication\MathApplication\obj\Debug\netcoreapp2.2\MathApplication.pdb
